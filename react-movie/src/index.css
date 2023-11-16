@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #6e6d6d;
+  color:aliceblue
+}
+body .no-scroll {
+  overflow-y: hidden;
+}
